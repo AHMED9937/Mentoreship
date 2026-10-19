@@ -64,8 +64,8 @@ transaction is logged.
 The diagrams live in Lucidchart; each file under [`docs/diagrams/`](docs/diagrams/)
 links to its source.
 
-| Diagram | File | Link |
-|---------|------|------|
-| Use-case diagram | [`docs/diagrams/01-use-case-diagram.md`](docs/diagrams/01-use-case-diagram.md) | [Lucid](https://lucid.app/lucidchart/d8e7b2e5-89a3-411d-9695-0f945f7aff0f/edit) |
-| Submit-vacation-request flow | [`docs/diagrams/02-submit-vacation-request-flow.md`](docs/diagrams/02-submit-vacation-request-flow.md) | [Lucid](https://lucid.app/lucidchart/8b88e3e0-78ac-4eeb-a3b5-63b824c1d8e3/edit) |
-| System context diagram | [`docs/diagrams/03-system-context-diagram.md`](docs/diagrams/03-system-context-diagram.md) | [Lucid](https://lucid.app/lucidchart/d45b8374-fe33-4ad1-95e8-91574aae2253/edit) |
+| # | Diagram | File | Link |
+|---|---------|------|------|
+| 1 | Flowchart | [`docs/diagrams/01-flowchart.md`](docs/diagrams/01-flowchart.md) | [Lucid](https://lucid.app/lucidchart/8b88e3e0-78ac-4eeb-a3b5-63b824c1d8e3/edit) |
+| 2 | Sequence diagram | [`docs/diagrams/02-sequence-diagram.md`](docs/diagrams/02-sequence-diagram.md) | [Lucid](https://lucid.app/lucidchart/d8e7b2e5-89a3-411d-9695-0f945f7aff0f/edit) |
+| 3 | Data model (ERD) | [`docs/diagrams/03-data-model-erd.md`](docs/diagrams/03-data-model-erd.md) | [Lucid](https://lucid.app/lucidchart/d45b8374-fe33-4ad1-95e8-91574aae2253/edit) |
