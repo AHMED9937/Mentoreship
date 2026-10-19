@@ -59,6 +59,15 @@ request; the rules engine validates it against company and facility policy; a
 manager optionally approves it; and all parties are notified by e-mail while every
 transaction is logged.
 
+## Actors — top-level use-case model
+
+![Top-level use-case model showing the Manager, Employee, Clerk, and System Admin actors and their use cases](docs/diagrams/actors.png)
+
+*Figure 12-1 — The Top-Level Use Case Model.* Actors: **Manager** (approve request,
+award time), **Employee** (manage time), **Clerk** (edit employee record, manage
+locations, manage leave categories, override leave records), **System Admin**
+(back up system logs).
+
 ## Diagrams
 
 The diagrams live in Lucidchart; each file under [`docs/diagrams/`](docs/diagrams/)
