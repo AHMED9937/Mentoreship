@@ -3,4 +3,4 @@
 The entity-relationship model behind the VTS: employees, leave requests, leave
 types/balances, approvals, and the activity/audit log.
 
-**Diagram:** https://lucid.app/lucidchart/d45b8374-fe33-4ad1-95e8-91574aae2253/edit
+**Diagram:** https://lucid.app/lucidchart/d8e7b2e5-89a3-411d-9695-0f945f7aff0f/edit
