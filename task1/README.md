@@ -61,17 +61,11 @@ transaction is logged.
 
 ## Diagrams
 
-Diagrams are kept as **diagrams-as-code** (Mermaid) so they render on GitHub, live
-in version control, and stay editable alongside the spec.
+The diagrams live in Lucidchart; each file under [`docs/diagrams/`](docs/diagrams/)
+links to its source.
 
-| Diagram | File | Source |
-|---------|------|--------|
+| Diagram | File | Link |
+|---------|------|------|
 | Use-case diagram | [`docs/diagrams/01-use-case-diagram.md`](docs/diagrams/01-use-case-diagram.md) | [Lucid](https://lucid.app/lucidchart/d8e7b2e5-89a3-411d-9695-0f945f7aff0f/edit) |
 | Submit-vacation-request flow | [`docs/diagrams/02-submit-vacation-request-flow.md`](docs/diagrams/02-submit-vacation-request-flow.md) | [Lucid](https://lucid.app/lucidchart/8b88e3e0-78ac-4eeb-a3b5-63b824c1d8e3/edit) |
 | System context diagram | [`docs/diagrams/03-system-context-diagram.md`](docs/diagrams/03-system-context-diagram.md) | [Lucid](https://lucid.app/lucidchart/d45b8374-fe33-4ad1-95e8-91574aae2253/edit) |
-
-> **Note on fidelity.** The original diagrams live in Lucidchart (links above) and
-> are behind a login, so they could not be read directly. The Mermaid versions here
-> were reconstructed from this written spec and the stated core journey. Treat the
-> Lucid links as the source of record; if you export the originals as SVG/PNG, drop
-> them next to each `.md` and embed them for an exact visual match.
